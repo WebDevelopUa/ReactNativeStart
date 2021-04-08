@@ -4,6 +4,9 @@
 * [Setting up the development environment](https://reactnative.dev/docs/environment-setup)
     - Expo CLI (requires Node.js and a phone or emulator)
     - React Native CLI (requires Xcode or Android Studio)
+* [react-native-video](https://www.npmjs.com/package/react-native-video)
+* [A <Video /> component for react-native](https://github.com/react-native-video/react-native-video)
+* [Add Video to Your React Native App Using react-native-video](https://betterprogramming.pub/add-video-to-your-react-native-app-using-react-native-video-f020e90059de)
 
 ---
 
